@@ -1,0 +1,6 @@
+﻿scenario=open-sky
+role=rover
+systems=G+E+J+C
+date=2025-04-08
+source=MobileGNSS-SPP
+description=开阔地导航星历，配合opensky_rover_20250408.25o使用

@@ -1,0 +1,6 @@
+﻿scenario=street
+role=base
+systems=G+E+J+C
+date=2025-03-12
+source=MobileGNSS-SPP
+description=街道场景基站NMEA轨迹参考
