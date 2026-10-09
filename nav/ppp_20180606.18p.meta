@@ -1,6 +1,8 @@
-ï»¿scenario=open-sky
+scenario=open-sky
 role=nav
 systems=G+R+E+C+J+S
 date=2018-06-06
 source=Net_Diff
-description=PPPå¤šç³»ç»Ÿæ··åˆå¯¼èˆªæ˜Ÿå†
+description=PPP¶àÏµÍ³»ìºÏµ¼º½ĞÇÀú
+license=public
+test_ids=PppTest,PppKinematicTest

@@ -1,6 +1,8 @@
-锘縮cenario=downtown
+scenario=downtown
 role=rover
 systems=G+E+J+C
 date=2025-04-08
 source=MobileGNSS-SPP
-description=鍩庡競宄¤胺瀵艰埅鏄熷巻锛岄厤鍚坉owntown_rover_20250408.25o浣跨敤
+description=城市峡谷导航星历，配合downtown_rover_20250408.25o使用
+license=MIT
+test_ids=SppOptimizationTest

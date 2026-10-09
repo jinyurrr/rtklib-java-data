@@ -1,5 +1,7 @@
-锘縯ype=sp3
+type=sp3
 systems=G+R+E+C
 date=2018-06-06
 source=GFZ
-description=GFZ GBM绮惧瘑杞ㄩ亾5min閲囨牱
+description=GFZ GBM精密轨道5min采样
+license=IGS-data-policy
+test_ids=PppTest,PppKinematicTest

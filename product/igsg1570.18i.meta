@@ -1,5 +1,7 @@
-ï»¿type=ionex
+type=ionex
 systems=G
 date=2018-06-06
 source=IGS
-description=IGSç”µç¦»å±‚æ ¼ç½‘2hé‡‡æ ·
+description=IGSµçÀë²ã¸ñÍø2h²ÉÑù
+license=IGS-data-policy
+test_ids=PppTest

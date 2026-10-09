@@ -1,6 +1,8 @@
-ï»¿scenario=urban
+scenario=urban
 role=nav
 systems=G+E+J+C
 date=2017-07-19
 source=Net_Diff
-description=åŸå¸‚RTKå¤šç³»ç»Ÿæ··åˆå¯¼èˆªæ˜Ÿå†
+description=³ÇÊĞRTK¶àÏµÍ³»ìºÏµ¼º½ĞÇÀú
+license=public
+test_ids=RtkUrbanTest

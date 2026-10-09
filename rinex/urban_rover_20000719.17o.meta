@@ -1,9 +1,12 @@
-ï»¿scenario=urban
+scenario=urban
 role=rover
 systems=G+E+J+C
 date=2017-07-19
 source=Net_Diff
 receiver=u-blox
 interval=1s
-description=åŸå¸‚RTKæµåŠ¨ç«™æ•°æ®(RINEX 3.02)ï¼Œå«G+E+J+Cå››ç³»ç»Ÿ
+description=³ÇÊĞRTKÁ÷¶¯Õ¾Êı¾İ(RINEX 3.02)£¬º¬G+E+J+CËÄÏµÍ³
 location=Unknown urban
+license=public
+test_ids=RtkUrbanTest
+sample_rate=1s

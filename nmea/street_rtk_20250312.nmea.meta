@@ -1,8 +1,10 @@
-锘縮cenario=street
+scenario=street
 role=reference
 systems=G+E+J+C
 date=2025-03-12
 source=MobileGNSS-SPP
 mode=rtk
 software=RTKLIB demo5 b34k
-description=琛楅亾鍦烘櫙RTK瀹氫綅缁撴灉NMEA
+description=街道场景RTK定位结果NMEA
+license=MIT
+test_ids=NmeaParseTest

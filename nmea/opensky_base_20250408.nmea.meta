@@ -1,6 +1,8 @@
-ï»¿scenario=open-sky
+scenario=open-sky
 role=base
 systems=G+E+J+C
 date=2025-04-08
 source=MobileGNSS-SPP
-description=å¼€é˜”åœ°åŸºç«™NMEAè½¨è¿¹å‚è€ƒ
+description=¿ªÀ«µØ»ùÕ¾NMEA¹ì¼£²Î¿¼
+license=MIT
+test_ids=NmeaParseTest

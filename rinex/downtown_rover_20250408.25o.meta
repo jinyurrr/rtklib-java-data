@@ -1,4 +1,4 @@
-ï»¿scenario=downtown
+scenario=downtown
 role=rover
 systems=G+E+J+C
 date=2025-04-08
@@ -6,5 +6,9 @@ source=MobileGNSS-SPP
 receiver=UNISOC uis7865_6h10_go_a32b
 antenna=unknown
 interval=1s
-description=åŸå¸‚å³¡è°·(å¸‚ä¸­å¿ƒ)æ‰‹æœºGNSSæ•°æ®ï¼Œå«NLOS/å¤šè·¯å¾„
+description=³ÇÊĞÏ¿¹È(ÊĞÖĞĞÄ)ÊÖ»úGNSSÊı¾İ£¬º¬NLOS/¶àÂ·¾¶
 location=Unknown downtown
+license=MIT
+test_ids=SppOptimizationTest
+sample_rate=1s
+duration=30min

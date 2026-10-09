@@ -1,6 +1,9 @@
-ï»¿scenario=open-sky
+scenario=open-sky
 role=rover
 systems=G+R+E+C+J+S
 date=2018-06-06
 source=Net_Diff
-description=é¦™æ¸¯ç«™PPPæ•°æ®
+description=Ïã¸ÛÕ¾PPPÊı¾İ
+license=public
+test_ids=PppTest
+sample_rate=30s

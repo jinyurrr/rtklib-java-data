@@ -1,5 +1,7 @@
-ï»¿type=clk
+type=clk
 systems=G+R+E+C
 date=2018-06-06
 source=GFZ
-description=GFZ GBMç²¾å¯†é’Ÿå·®30sé‡‡æ ·
+description=GFZ GBM¾«ÃÜÖÓ²î30s²ÉÑù
+license=IGS-data-policy
+test_ids=PppTest,PppKinematicTest

@@ -1,6 +1,8 @@
-锘縮cenario=street
+scenario=street
 role=rover
 systems=G+E+J+C
 date=2025-03-12
 source=MobileGNSS-SPP
-description=琛楅亾鍦烘櫙瀵艰埅鏄熷巻锛岄厤鍚坰treet_rover_20250312.25o浣跨敤
+description=街道场景导航星历，配合street_rover_20250312.25o使用
+license=MIT
+test_ids=SppOptimizationTest

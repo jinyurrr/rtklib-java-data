@@ -1,6 +1,8 @@
-ï»¿scenario=street
+scenario=street
 role=base
 systems=G+E+J+C
 date=2025-03-12
 source=MobileGNSS-SPP
-description=è¡—é“åœºæ™¯åŸºç«™NMEAè½¨è¿¹å‚è€ƒ
+description=½ÖµÀ³¡¾°»ùÕ¾NMEA¹ì¼£²Î¿¼
+license=MIT
+test_ids=NmeaParseTest

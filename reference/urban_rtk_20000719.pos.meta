@@ -1,8 +1,10 @@
-锘縮cenario=urban
+scenario=urban
 role=reference
 systems=G+E+J+C
 date=2017-07-19
 source=Net_Diff
 mode=rtk
 software=LAMBDA
-description=鍩庡競RTK鍙傝�冭В
+description=城市RTK参考解
+license=public
+test_ids=RtkUrbanTest
