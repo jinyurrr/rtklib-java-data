@@ -1,0 +1,12 @@
+﻿scenario=ppp-ar
+role=rover
+systems=G+R+E+C
+date=2024-02-29
+source=IGS-BKG/WHU
+url=https://igs.bkg.bund.de/root_ftp/IGS/obs/2024/060/
+type=obs-rinex3
+license=IGS-data-policy
+description=ALGO 30s RINEX3 观测 2024 DOY060，PPP/PPP-AR 验证基线数据集
+mode=ppp
+test_ids=PppValidationTest;PppArValidationTest
+

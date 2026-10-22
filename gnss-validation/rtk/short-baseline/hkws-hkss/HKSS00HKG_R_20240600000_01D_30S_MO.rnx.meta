@@ -1,0 +1,12 @@
+﻿scenario=rtk-short-baseline
+role=base
+systems=G+E+C
+date=2024-02-29
+source=HK-SatRef
+url=https://rinex.geodetic.gov.hk/rinex3/2024/060/hkss/30s/
+type=obs-rinex3
+license=public
+description=香港 SatRef HKSS 30s 观测（短基线基准站）
+mode=rtk
+test_ids=RtkValidationTest(short-baseline)
+

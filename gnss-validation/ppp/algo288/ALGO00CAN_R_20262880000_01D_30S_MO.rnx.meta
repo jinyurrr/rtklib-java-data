@@ -1,0 +1,12 @@
+﻿scenario=ppp-ar
+role=rover
+systems=G+R+E+C
+date=2026-10-15
+source=IGS-BKG/WHU
+url=https://igs.bkg.bund.de/root_ftp/IGS/obs/2026/288/
+type=obs-rinex3
+license=IGS-data-policy
+description=ALGO 30s RINEX3 观测 2026 DOY288，FIX-ALG-027 GBM 时变 OSB 验证数据集
+mode=ppp
+test_ids=PppArValidationTest(PPP_PRODUCT_SUBDIR=product288)
+

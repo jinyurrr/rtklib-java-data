@@ -1,0 +1,12 @@
+﻿scenario=ppp-ar
+role=product
+systems=G+E
+date=2024-01-10
+source=CNES-PPP-Wizard
+url=http://www.ppp-wizard.net/products/REAL_TIME/cit22963.bia.gz
+type=bia-osb-phase
+license=public
+description=CNES REAL_TIME 相位 OSB（Bias-SINEX）GPS week 2296 周三
+mode=ppp-ar
+test_ids=PppArValidationTest
+

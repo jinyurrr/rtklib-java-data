@@ -1,0 +1,12 @@
+﻿scenario=ppp-rtk
+role=nav
+systems=G+R+E+C+J+I
+date=2024-02-29
+source=IGS-BKG
+url=https://igs.bkg.bund.de/root_ftp/BRDC/2024/060/
+type=brdc-rinex3
+license=IGS-data-policy
+description=IGS 合并广播星历 2024 DOY060
+mode=ppp-rtk
+test_ids=PppRtkValidationTest
+

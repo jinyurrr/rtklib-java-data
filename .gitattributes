@@ -1,0 +1,2 @@
+*.BIA filter=lfs diff=lfs merge=lfs -text
+*.bia filter=lfs diff=lfs merge=lfs -text

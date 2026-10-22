@@ -1,0 +1,12 @@
+﻿scenario=rtk-short-baseline
+role=rover
+systems=G+E+C
+date=2024-02-29
+source=HK-SatRef
+url=https://rinex.geodetic.gov.hk/rinex3/2024/060/hkws/30s/
+type=obs-rinex3
+license=public
+description=香港 SatRef HKWS 30s 观测（短基线 hkws-hkss 流动站）
+mode=rtk
+test_ids=RtkValidationTest(short-baseline)
+

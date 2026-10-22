@@ -1,0 +1,12 @@
+﻿scenario=ppp-ar
+role=nav
+systems=G+R+E+C+J+I
+date=2026-10-15
+source=BKG-BRDM
+url=https://igs.bkg.bund.de/root_ftp/BRDC/2026/288/
+type=brdm-rinex3
+license=IGS-data-policy
+description=多系统合并广播星历 2026 DOY288
+mode=ppp
+test_ids=PppArValidationTest(PPP_PRODUCT_SUBDIR=product288)
+

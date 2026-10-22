@@ -1,0 +1,12 @@
+﻿scenario=ppp-ar
+role=product
+systems=G+R+E+C
+date=2026-10-15
+source=GBM-MGEX
+url=https://cddis.nasa.gov/archive/gnss/products/mgex/2437/GBM0MGXRAP_20262880000_01D_30S_ABS.BIA
+type=bia-osb-time-variable
+license=IGS-data-policy
+description=GBM 30s 时变绝对 OSB（Bias-SINEX，git-lfs 存储，FIX-ALG-027 时变读取验证）
+mode=ppp-ar
+test_ids=PppArValidationTest(PPP_PRODUCT_SUBDIR=product288)
+

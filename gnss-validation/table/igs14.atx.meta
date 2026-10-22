@@ -1,0 +1,12 @@
+﻿scenario=common
+role=table
+systems=G+R+E+C+J
+date=2024-02-29
+source=IGS
+url=https://files.igs.org/pub/station/general/igs14.atx
+type=antex
+license=IGS-data-policy
+description=IGS14 ANTEX 天线改正（PCO+PCV）
+mode=common
+test_ids=SppValidationTest;PppValidationTest;RtkValidationTest
+

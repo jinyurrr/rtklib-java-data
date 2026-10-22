@@ -1,0 +1,12 @@
+﻿scenario=common
+role=table
+systems=G+R+E+C+J
+date=2026-10-15
+source=IGS
+url=https://files.igs.org/pub/station/general/igs20_2437.atx
+type=antex
+license=IGS-data-policy
+description=IGS20 ANTEX 天线改正（GPS week 2437 版）
+mode=common
+test_ids=PppArValidationTest(PPP_PRODUCT_SUBDIR=product288)
+

@@ -1,0 +1,12 @@
+﻿scenario=ppp-ar
+role=product
+systems=G+R+E+C
+date=2026-10-15
+source=GBM-MGEX
+url=https://cddis.nasa.gov/archive/gnss/products/mgex/2437/GBM0MGXRAP_20262880000_01D_30S_CLK.CLK
+type=clk
+license=IGS-data-policy
+description=GBM MGEX 精密钟差 30s 采样 2026 DOY288
+mode=ppp
+test_ids=PppArValidationTest(PPP_PRODUCT_SUBDIR=product288)
+

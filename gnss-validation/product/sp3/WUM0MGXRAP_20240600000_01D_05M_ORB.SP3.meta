@@ -1,0 +1,12 @@
+﻿scenario=ppp-ar
+role=product
+systems=G+R+E+C
+date=2024-02-29
+source=WUM-WHU
+url=ftp://igs.gnsswhu.cn/pub/whu/phasebias/2024/orbit/WUM0MGXRAP_20240600000_01D_05M_ORB.SP3.gz
+type=sp3
+license=IGS-data-policy
+description=WUM MGEX 快速精密轨道 5min 采样 2024 DOY060
+mode=ppp
+test_ids=PppValidationTest;PppArValidationTest
+

@@ -1,0 +1,12 @@
+﻿scenario=ppp-rtk
+role=rover
+systems=G+R+E+C
+date=2024-02-29
+source=IGS-BKG/WHU
+url=https://igs.bkg.bund.de/root_ftp/IGS/obs/2024/060/
+type=obs-rinex3
+license=IGS-data-policy
+description=ALGO 30s 观测 2024 DOY060，PPP-RTK 验证
+mode=ppp-rtk
+test_ids=PppRtkValidationTest
+
